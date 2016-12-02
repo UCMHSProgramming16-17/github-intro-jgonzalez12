@@ -1,7 +1,6 @@
 # Sample repository
 ----
-We'll be using this repository to practice using Git and GitHub.
-
+Send help for chem plz, quiz next period
 Process:
 
 1. Clone the repository
